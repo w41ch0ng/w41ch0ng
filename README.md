@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @w41ch0ng
-- 👀 I’m interested in languages, Pokémon, League of Legends - somewhat - ( -.- ) and becoming a better developer.
-- 🌱 I’m currently learning Mandarin and C#!
+- 👀 I’m interested in languages (computer and real languages) and becoming a better developer.
+- 🌱 I’m currently learning Electron.js!
 - 😄 Pronouns: he/him
 
 <!---
