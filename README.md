@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @w41ch0ng
-- 👀 I’m interested in languages (computer and real languages) and becoming a better developer.
+- 👀 I’m interested in languages (computer and real languages) and Final Fantasy.
 - 🌱 I’m currently learning Electron.js!
 - 😄 Pronouns: he/him
 
